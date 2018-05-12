@@ -1,0 +1,39 @@
+_repo: Character-and-Opinion-in-the-United-States_34654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Santayana, George
+    aliases:
+    - Santayana, Jorge
+    - Santayana, Georgius
+    birthdate: 1863
+    deathdate: 1952
+    gutenberg_agent_id: '5805'
+    url: http://www.gutenberg.org/2009/agents/5805
+    wikipedia: http://en.wikipedia.org/wiki/George_Santayana
+description: ''
+gutenberg_issued: '2010-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Civilization -- 1865-1918'
+- !lcc 'B'
+- !lcsh 'National characteristics, American'
+- !lcsh 'James, William, 1842-1910'
+- !lcsh 'Philosophy, American -- 19th century'
+- !lcsh 'Royce, Josiah, 1855-1916'
+- !lcc 'E151'
+tableOfContents: The moral background -- The academic environment -- William James
+  -- Josiah Royce -- Later speculations -- Materialism and idealism in American life
+  -- English liberty in America.
+title: "Character and Opinion in the United States\r\nWith Reminiscences of William\
+  \ James and Josiah Royce and Academic Life in America"
+url: http://www.gutenberg.org/ebooks/34654
